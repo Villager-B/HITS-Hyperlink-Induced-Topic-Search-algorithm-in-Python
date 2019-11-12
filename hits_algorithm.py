@@ -56,12 +56,6 @@ def main():
     pprint("Result")
     pprint(df_result)
 
-    # print(adj_matrix.shape)
-    # a = np.array([[1, 1, 1]])
-    # a_r = np.c_[a]
-    # print(a.shape)
-    # print(a_r.shape)
-
 
 def calc_hits_algorithm(adj_matrix, iter=60, normalize=True, delta=1e-8):
     g, r = adj_matrix.shape
