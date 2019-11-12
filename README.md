@@ -2,7 +2,7 @@
 
 HITS(Hyperlink-Induced Topic Search)はJon Kleinbergが開発したWebページを評価するアルゴリズムです．
 
-勉強も兼ねてnetworkxのhits functionを使用しないHITS algorithmを実装するリポジトリ
+勉強も兼ねてnetworkxのhits functionを使用しないHITS algorithmを実装するリポジトリ．
 
 ## 参考リンク
 
@@ -63,6 +63,23 @@ Network xでの実行結果(iter=60,normalize=true)
  'F': 0.062151232534615714,
  'G': 0.17785409945218528,
  'H': 0.04780272562152461}
+```
+
+hits_algoritm.pyのcalc_hits_algorithmでの結果(iter=60,normalize=true)
+
+(実際はndarrayが返される)
+
+```
+'Result'
+   authority      hubs
+A   0.122591  0.062151
+B   0.159387  0.156465
+C   0.333518  0.057511
+D   0.159387  0.130051
+E   0.067738  0.306013
+F   0.132481  0.062151
+G   0.000000  0.177854
+H   0.024898  0.047803
 ```
 
 ## Note
