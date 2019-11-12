@@ -49,7 +49,7 @@ Network xでの実行結果(iter=60,normalize=true)
 
 ## Note
 
-![IMG1](img/hits1.png)
-![IMG1](img/hits2.png)
-![IMG1](img/hits3.png)
-![IMG1](img/hits4.png)
+![IMG1](img/hits.png)
+![IMG2](img/hitss.png)
+![IMG3](img/hitsss.png)
+![IMG4](img/hitssss.png)
