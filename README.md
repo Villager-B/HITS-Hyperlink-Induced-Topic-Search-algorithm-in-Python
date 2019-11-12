@@ -35,7 +35,7 @@ Network xでの実行結果(iter=60,normalize=true)
  'F': 0.13248067440906394,
  'G': 0.0,
  'H': 0.02489813969594891}
- 
+
 'Hub Scores'
 {'A': 0.062151232534615714,
  'B': 0.1564647974400908,
@@ -49,7 +49,7 @@ Network xでの実行結果(iter=60,normalize=true)
 
 ## Note
 
-![IMG1](img/img1.png)
-![IMG1](img/img2.png)
-![IMG1](img/img3.png)
-![IMG1](img/img4.png)
+![IMG1](img/hits1.png)
+![IMG1](img/hits2.png)
+![IMG1](img/hits3.png)
+![IMG1](img/hits4.png)
