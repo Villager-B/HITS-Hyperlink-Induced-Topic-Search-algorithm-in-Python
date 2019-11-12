@@ -2,6 +2,8 @@
 
 HITS(Hyperlink-Induced Topic Search)はJon Kleinbergが開発したWebページを評価するアルゴリズムです．
 
+勉強も兼ねてnetworkxのhits functionを使用しないHITSファンクションを実装するリポジトリ
+
 ## 参考リンク
 
 - [Kleinberg, J. M. (1997). Authoritative Sources in a Hyperlinked Environment .](https://www.cs.cornell.edu/home/kleinber/auth.pdf)
